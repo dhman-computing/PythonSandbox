@@ -1,2 +1,2 @@
-# PythonSandbpx
+# PythonSandbox
 Just Learning Python
